@@ -6,11 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+this is a test app to work with flutter and api.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+note that you can only send 50 requests per day and if the app stopped refreshing the data its because you have reached your daily requests.
+to bypass the limit ypu can always create a new app on accuWeather and copy your api key and paste it in the app in the settings page.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+powered by accuWeather programmed by Ali Bahrami Fard
